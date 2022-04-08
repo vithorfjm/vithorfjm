@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1>Olá, bem vindo ao meu perfil! 👋</h1>
 
-<!--
-**vithorfjm/vithorfjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🗿 Sobre mim
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Vithor, tenho 19 anos e estou no segundo período de Engenharia de Software.
+
+<br>
+
+
+![vithorfjm's GitHub stats](https://github-readme-stats.vercel.app/api?username=vithorfjm&hide=issues,prs&theme=shades-of-purple&custom_title=Vithor%20Félix)
+
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" src="https://twitter.com/vithorfjm" target="_blank" alt="vithor-twitter"></img>
+
+# 
+
+## 👨‍💻 Tecnologias
+
+<br>
+
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#
+
+## 📌 Objetivos na área
+
+<br>
+
+Pretendo começar o aprendizado ainda esse ano:
+- React
+- Typescript
