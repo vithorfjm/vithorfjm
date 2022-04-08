@@ -11,7 +11,7 @@ Me chamo Vithor, tenho 19 anos e estou no segundo período de Engenharia de Soft
 
 ![vithorfjm's GitHub stats](https://github-readme-stats.vercel.app/api?username=vithorfjm&hide=issues,prs&theme=shades-of-purple&custom_title=Vithor%20Félix)
 
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" src="https://twitter.com/vithorfjm" target="_blank" alt="vithor-twitter"></img>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" href="https://twitter.com/vithorfjm" target="_blank" alt="vithor-twitter"></img>
 
 # 
 
