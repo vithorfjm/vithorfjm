@@ -4,7 +4,7 @@
 
 <br>
 
-Me chamo Vithor Félix, tenho 19 anos e estou no segundo período de Engenharia de Software.
+Me chamo Vithor Félix, tenho 19 anos e estou cursando o 3º período de Engenharia de Software.
 
 <br>
 
