@@ -11,8 +11,6 @@ Me chamo Vithor Félix, tenho 19 anos e estou cursando o 3º período de Engenha
 
 ![vithorfjm's GitHub stats](https://github-readme-stats.vercel.app/api?username=vithorfjm&hide=issues,prs&theme=shades-of-purple&custom_title=Vithor%20Félix)
 
-<a href="https://twitter.com/vithorfjm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="vithor-twitter" target="_blank"></a>
-
 # 
 
 ## 👨‍💻 Tecnologias
