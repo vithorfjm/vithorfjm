@@ -1,6 +1,6 @@
 <h1>Olá, bem vindo ao meu perfil! 👋</h1>
 
-## 🗿 Sobre mim
+## 🤖 Sobre mim
 
 <br>
 
@@ -22,11 +22,3 @@ Me chamo Vithor Félix, tenho 19 anos e estou cursando o 3º período de Engenha
 - ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #
-
-## 📌 Objetivos na área
-
-<br>
-
-Pretendo começar o aprendizado ainda esse ano:
-- React
-- Typescript
