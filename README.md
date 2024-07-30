@@ -2,7 +2,7 @@
 
 ## 🤖 Sobre mim
 
-Me chamo Vithor Félix, tenho 20 anos e estou cursando o 5º período de Engenharia de Software.
+Me chamo Vithor Félix, tenho 21 anos e estou cursando o 7º período de Engenharia de Software.
 
 
 ![vithorfjm's GitHub stats](https://github-readme-stats.vercel.app/api?username=vithorfjm&hide=issues,prs&theme=shades-of-purple&custom_title=Vithor%20Félix)
